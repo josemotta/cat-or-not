@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 from keras.models import Sequential, load_model
 from keras.layers import Dense, Dropout, Flatten
 from keras.layers import Conv2D, MaxPooling2D
